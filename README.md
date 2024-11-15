@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://www.facebook.com/ZawHlaingPhyo.23" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="@zawhlaingphyo" /></a> </p>
 - 🌱 I’m currently learning **Next.js and TypeScript** <br><br>
 - 📫 How to reach me **tro2233zhp@gmail.com** <br><br>
-- ⚡ Fun fact **Otaku 🇯🇵** <br><br>
+- ⚡ Fun fact **Otaku 🇯🇵** <br><br><br><br>
 
 
 
