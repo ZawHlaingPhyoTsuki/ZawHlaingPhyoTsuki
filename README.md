@@ -15,7 +15,7 @@ I'm also collaborating with my university peers on a **social-style group projec
 ### 🧠 Currently Working On
 - 🚀 **Utility Management System** (backend developer) — managing utility data for apartments & condos  
 - 👥 **Team Collaboration Platform** — create portfolios, form teams, and connect like a social media for students  
-- 🧩 Learning advanced **NestJS**, **tRPC**, and **Microservices** architecture  
+- 🧩 Learning advanced **NestJS**, **oRPC**, and **Microservices** architecture  
 
 ---
 
@@ -97,10 +97,11 @@ I'm also collaborating with my university peers on a **social-style group projec
 ### 🚀 GitHub Highlights
 <p align="center">
   <a href="https://github.com/zawhlaingphyotsuki">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=zawhlaingphyotsuki&theme=radical&hide_border=true" />
+    <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=zawhlaingphyotsuki&theme=radical&hide_border=true" /> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zawhlaingphyotsuki&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/zawhlaingphyotsuki">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawhlaingphyotsuki&layout=compact&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawhlaingphyotsuki&layout=compact&theme=radical" />
   </a>
 </p>
 
