@@ -1,5 +1,5 @@
 ### 💫 About Me
-I'm a full-stack developer currently studying **Digital Technologies Innovation** at **Kasem Bundit University, Bangkok**.  
+I'm a **full-stack developer** currently studying **Digital Technologies Innovation** at **Kasem Bundit University, Bangkok**.  
 
 I'm actively contributing to a community-driven initiative called **"One Project One Month"**, where I'm developing the **backend** with other developers for a **Utility Management System** for apartments, residences, and condos.  
 
@@ -14,7 +14,7 @@ I'm also collaborating with my university peers on a **social-style group projec
 
 ### 🧠 Currently Working On
 - 🚀 **Utility Management System** (backend developer) — managing utility data for apartments & condos  
-- 👥 **Team Collaboration Platform** — create portfolios, form teams, and connect like a social media for students  
+- 👥 **Team Collaboration Platform** (frontend developer) — create portfolios, form teams, and connect like a social media for students  
 - 🧩 Learning advanced **NestJS**, **oRPC**, and **Microservices** architecture  
 
 ---
