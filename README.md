@@ -88,16 +88,16 @@ I'm also collaborating with my university peers on a **social-style group projec
 ---
 
 ### 🎯 Learning Goals (2025)
-- Learning **Java** and **Spring Boot** with NestJS  
-- Exploring **Redis** and **BullMQ** for background jobs  
-- Building a SaaS for local businesses in Tachileik 
+- **Vue & Nuxt.js Ecosystem** - Expanding full-stack capabilities beyond **React**
+- **Real-time Communication** - Building live features with **Socket.io**
+- **Background Job Processing** - Implementing queues with **Redis** & **BullMQ**
 
 ---
 
 ### 🚀 GitHub Highlights
 <p align="center">
   <a href="https://github.com/zawhlaingphyotsuki">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=zawhlaingphyotsuki&theme=radical" />
+    <img height="180em" src="https://git-hub-streak-stats.vercel.app?user=ZawHlaingPhyoTsuki&theme=radical" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zawhlaingphyotsuki&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/zawhlaingphyotsuki">
