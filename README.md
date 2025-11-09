@@ -13,9 +13,21 @@ I'm also collaborating with my university peers on a **social-style group projec
 ---
 
 ### 🧠 Currently Working On
-- 🚀 **Utility Management System** (backend developer) — managing utility data for apartments & condos  
-- 👥 **Team Collaboration Platform** (frontend developer) — create portfolios, form teams, and connect like a social media for students  
-- 🧩 Learning advanced **NestJS**, **oRPC**, and **Microservices** architecture  
+
+**🚀 Utility Management System**  
+`Backend Developer`  
+Managing utility data for apartments & condos  
+*(Community project - "One Project One Month")*
+
+**👥 Team Collaboration Platform**  
+`Frontend Developer`  
+Create portfolios, form teams, and connect like a social media for students  
+*(Community project - "One Project One Month")*
+
+**🧩 Project Management App**  
+`Fullstack Developer`  
+Trello-like application with workspaces, boards, and task lists  
+*(Solo project)*
 
 ---
 
@@ -29,6 +41,7 @@ I'm also collaborating with my university peers on a **social-style group projec
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23d17a00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,6 +55,7 @@ I'm also collaborating with my university peers on a **social-style group projec
 ![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Turborepo](https://img.shields.io/badge/turborepo-%23000000.svg?style=for-the-badge&logo=turborepo&logoColor=white)
@@ -89,8 +103,8 @@ I'm also collaborating with my university peers on a **social-style group projec
 
 ### 🎯 Learning Goals (2025)
 - **Vue & Nuxt.js Ecosystem** - Expanding full-stack capabilities beyond **React**
-- **Real-time Communication** - Building live features with **Socket.io**
-- **Background Job Processing** - Implementing queues with **Redis** & **BullMQ**
+- **Java & Spring Boot** - Strengthening backend expertise with **Java**
+- **Docker** - Containerization, multi-stage builds, and production deployment
 
 ---
 
