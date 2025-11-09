@@ -14,7 +14,7 @@ I'm also collaborating with my university peers on a **social-style group projec
 
 ### 🧠 Currently Working On
 
-**🚀 Utility Management System**  
+**🚀 [Utility Management System](https://github.com/one-project-one-month/Node-Utility-Management-System)**  
 `Backend Developer`  
 Managing utility data for apartments & condos  
 *(Community project - "One Project One Month")*
@@ -24,7 +24,7 @@ Managing utility data for apartments & condos
 Create portfolios, form teams, and connect like a social media for students  
 *(Community project - "One Project One Month")*
 
-**🧩 Project Management App**  
+**🧩 [Project Management App](https://github.com/ZawHlaingPhyoTsuki/project-management-app)**  
 `Fullstack Developer`  
 Trello-like application with workspaces, boards, and task lists  
 *(Solo project)*
