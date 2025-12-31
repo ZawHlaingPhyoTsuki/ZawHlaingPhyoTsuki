@@ -22,12 +22,12 @@ Managing utility data for apartments & condos
 **👥 Team Collaboration Platform**  
 `Frontend Developer`  
 Create portfolios, form teams, and connect like a social media for students  
-*(Community project - "One Project One Month")*
+*(Community project)*
 
-**🧩 [Project Management App](https://github.com/ZawHlaingPhyoTsuki/project-management-app)**  
+**🧩 [Car Dealership Management App](https://github.com/ZawHlaingPhyoTsuki/Car-Dealership-Management-System)**  
 `Fullstack Developer`  
-Trello-like application with workspaces, boards, and task lists  
-*(Solo project)*
+A simple and efficient in-house management system for a small car dealership.
+*(Freelance project - "Banana Coder")*
 
 ---
 
@@ -92,6 +92,7 @@ Trello-like application with workspaces, boards, and task lists
 ![RTK Query](https://img.shields.io/badge/RTK_Query-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-160440?style=for-the-badge&logo=react-query)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-160440?style=for-the-badge&logo=react-table)
 ![TanStack Form](https://img.shields.io/badge/TanStack%20Form-%23FF4154.svg?style=for-the-badge&logo=reacttable&logoColor=white)
 ![React Hook Form Badge](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=for-the-badge)
 ![ShadCN](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
@@ -102,22 +103,11 @@ Trello-like application with workspaces, boards, and task lists
 ---
 
 ### 🎯 Learning Goals (2025)
-- **Vue & Nuxt.js Ecosystem** - Expanding full-stack capabilities beyond **React**
+- **Expo & React Native** - Learning **Mobile Development**
 - **Java & Spring Boot** - Strengthening backend expertise with **Java**
-- **Docker** - Containerization, multi-stage builds, and production deployment
+- **Docker & CI/CD** - Containerization, multi-stage builds, and production deployment
 
 ---
-
-### 🚀 GitHub Highlights
-<p align="center">
-  <a href="https://github.com/zawhlaingphyotsuki">
-    <img height="180em" src="https://git-hub-streak-stats.vercel.app?user=ZawHlaingPhyoTsuki&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zawhlaingphyotsuki&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/zawhlaingphyotsuki">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawhlaingphyotsuki&layout=compact&theme=radical" />
-  </a>
-</p>
 
 <p align="center">
   💡 Active Contributor at <a href="https://github.com/One-Project-One-Month"><b>One Project One Month</b></a>
