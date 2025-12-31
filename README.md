@@ -26,7 +26,7 @@ Create portfolios, form teams, and connect like a social media for students
 
 **🧩 [Car Dealership Management App](https://github.com/ZawHlaingPhyoTsuki/Car-Dealership-Management-System)**  
 `Fullstack Developer`  
-A simple and efficient in-house management system for a small car dealership.
+A simple and efficient in-house management system for a small car dealership  
 *(Freelance project - "Banana Coder")*
 
 ---
